@@ -1,1 +1,3 @@
-# Object--Oriented-Programing
+# Object-Oriented-Programing
+# オブジェクト指向プログラミング
+本リポジトリはオブジェクト指向プログラミングについて再学習用のリポジトリです。
