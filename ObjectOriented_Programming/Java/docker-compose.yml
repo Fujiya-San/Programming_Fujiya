@@ -1,0 +1,12 @@
+version: '3'
+services: 
+    java: 
+        build: 
+            dockerfile: ./Dockerfile
+            context: .
+        volumes: 
+            - .:/Java/
+        env_file: 
+            - ./.env
+        stdin_open: true
+        tty: true
